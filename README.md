@@ -2,7 +2,7 @@
 
 An efficient algorithm for computing the exact prime factorization of factorial numbers, optimized for extremely large values of n (≥ 10^18).
 
-Full Paper: [Paper](/)
+Full Paper: [Paper](/A_Novel_Implicit_Representation_Approach_for_Factorial_Prime_Factorization.pdf)
 
 ## Mathematical Background
 
